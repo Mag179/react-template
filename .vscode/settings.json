@@ -1,0 +1,84 @@
+{
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit",
+    "source.addMissingImports": "explicit"
+  },
+  "eslint.validate": ["typescript", "typescriptreact"],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "APPLEID",
+    "APPLEIDPASS",
+    "asar",
+    "authcode",
+    "Authen",
+    "auths",
+    "autoprefixer",
+    "axios",
+    "backgrounding",
+    "browserify",
+    "browserslist",
+    "camelcase",
+    "Cipheriv",
+    "clsx",
+    "comeon",
+    "concat",
+    "Decipheriv",
+    "dotenv",
+    "electronmon",
+    "fullscreenable",
+    "hasher",
+    "headlessui",
+    "hookform",
+    "jsdoc",
+    "localshortcut",
+    "maximizable",
+    "monolisix",
+    "notarytool",
+    "nsis",
+    "nupkg",
+    "onamae",
+    "Parens",
+    "paymoapp",
+    "readdir",
+    "regist",
+    "rimraf",
+    "simplebar",
+    "Sqij",
+    "STPZ",
+    "stylelint",
+    "tailwindcss",
+    "telno",
+    "todaytime",
+    "TPXDP",
+    "TTFB",
+    "typeof",
+    "unhide",
+    "UNMAGNET",
+    "unmaximize",
+    "voicechat",
+    "VOICHAT",
+    "wakeup",
+    "winstaller"
+  ],
+  "css.lint.unknownAtRules": "ignore"
+}

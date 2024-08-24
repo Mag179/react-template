@@ -1,0 +1,11 @@
+node_modules
+dist
+coverage
+scripts
+.eslintrc.js
+build*.js
+installer.js
+notalize.js
+tailwind.config.js
+webpack.config.js
+postcss.config.js
